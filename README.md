@@ -37,7 +37,7 @@ This project serves as the canonical 2D image case study using grayscale 28×28 
 
 Key features:
 
-- Includes the full end-to-end workflow, from dataset normalization → training → quantization → HLS → FPGA.
+- Includes the full end-to-end workflow.
 
 - The pipeline mirrors the G/N project but uses a 2D convolutional model.
 
