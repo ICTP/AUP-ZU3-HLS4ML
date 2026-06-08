@@ -9,13 +9,12 @@ Documentation is available in the wiki folder
 This repository contains three independent FPGA accelerator implementations, each designed to illustrate a different class of machine learning models, preprocessing assumptions, and hardware design strategies.
 Although they share a common workflow (training → quantization → hls4ml → FPGA wrapper), each project targets a different application domain and showcases a distinct set of techniques.
 
-
 Together, these three projects demonstrate a broad range of FPGA-accelerable ML systems: from raw signal classification, to image processing, to sequential recommendation systems.
 
 
 ### Gamma/Neutron (G/N) Classifier 
 
-This project is inspired by the work of Molina et al., where the goal is to distinguish between gamma and neutron pulses.
+In this project the goal is to distinguish between gamma and neutron pulses.
 The objective here is to train a compact student model via Knowledge Distillation (KD) so that it can closely match a larger teacher network.
 
 Key features:
