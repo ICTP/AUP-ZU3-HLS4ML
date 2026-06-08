@@ -7,7 +7,7 @@ Documentation is available in the wiki folder
 ## Overview of the Three Accelerator Projects
 
 This repository contains three independent FPGA accelerator implementations, each designed to illustrate a different class of machine learning models, preprocessing assumptions, and hardware design strategies.
-Although they share a common workflow (training → quantization → hls4ml → FPGA wrapper), each project targets a different application domain and showcases a distinct set of techniques.
+Although they share a common workflow (training → compression → hls4ml → FPGA wrapper), each project targets a different application domain and showcases a distinct set of techniques.
 
 Together, these three projects demonstrate a broad range of FPGA-accelerable ML systems: from raw signal classification, to image processing, to sequential recommendation systems.
 
