@@ -2,7 +2,7 @@
 
 ## Starting!
 
-Documentation is available in the [wiki tab][https://github.com/ICTP/AUP-ZU3-HLS4ML/wiki] or in the [wiki folder](https://github.com/ICTP/AUP-ZU3-HLS4ML/tree/main/wiki) 
+Documentation is available in the [wiki tab](https://github.com/ICTP/AUP-ZU3-HLS4ML/wiki) or in the [wiki folder](https://github.com/ICTP/AUP-ZU3-HLS4ML/tree/main/wiki) 
 
 ## Overview of the Three Accelerator Projects
 
